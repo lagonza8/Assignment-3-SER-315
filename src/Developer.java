@@ -21,4 +21,5 @@ public class Developer {
         this.password = password;
         this.isApproved = false;
     }
+
 }
